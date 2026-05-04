@@ -1,0 +1,6 @@
+{
+  "name": "yaya sudoku",
+  "description": "A refined, logic-focused Sudoku game with multiple difficulties, smart highlighting, notes mode, and history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
